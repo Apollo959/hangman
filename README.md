@@ -32,5 +32,4 @@ Added the file milestone_5.py which allows you to play the Hangman game. This is
     -- The play_game function takes in a word_list and sets a number of lives in the num_lives variable.
     -- It then initiates the Hangman class to set the game parameters
     -- The function then loops through the ask_for_input() method.
-
-    The game is lost when you run out of lives. If you do manage to guess all the letters, you win the game.
+The game is lost when you run out of lives. If you do manage to guess all the letters, you win the game.
